@@ -1,0 +1,83 @@
+Script started on 2020-03-14 10:52:49+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ man printf
+[?1049h[22;0;0t[?1h=PRINTF(1)                        User Commands                       PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print ARGUMENT(s) according to FORMAT, or execute according to OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls the output as in C printf.  Interpreted sequences are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ man 3 printf
+[?1049h[22;0;0t[?1h=PRINTF(3)                  Linux Programmer's Manual                 PRINTF(3)[m
+[m
+[1mNAME[0m[m
+       printf,  fprintf,  dprintf,  sprintf,  snprintf, vprintf, vfprintf, vd‐[m
+       printf, vsprintf, vsnprintf - formatted output conversion[m
+[m
+[1mSYNOPSIS[0m[m
+       [1m#include[0m [1m<stdio.h>[0m[m
+[m
+       [1mint[0m [1mprintf(const[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1m...);[0m[m
+       [1mint[0m [1mfprintf(FILE[0m [1m*[0m[4mstream[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1m...);[0m[m
+       [1mint[0m [1mdprintf(int[0m [4mfd[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1m...);[0m[m
+       [1mint[0m [1msprintf(char[0m [1m*[0m[4mstr[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1m...);[0m[m
+       [1mint[0m [1msnprintf(char[0m [1m*[0m[4mstr[24m[1m,[0m [1msize_t[0m [4msize[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1m...);[0m[m
+[m
+       [1m#include[0m [1m<stdarg.h>[0m[m
+[m
+       [1mint[0m [1mvprintf(const[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1mva_list[0m [4map[24m[1m);[0m[m
+       [1mint[0m [1mvfprintf(FILE[0m [1m*[0m[4mstream[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1mva_list[0m [4map[24m[1m);[0m[m
+       [1mint[0m [1mvdprintf(int[0m [4mfd[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1mva_list[0m [4map[24m[1m);[0m[m
+       [1mint[0m [1mvsprintf(char[0m [1m*[0m[4mstr[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1mva_list[0m [4map[24m[1m);[0m[m
+       [1mint[0m [1mvsnprintf(char[0m [1m*[0m[4mstr[24m[1m,[0m [1msize_t[0m [4msize[24m[1m,[0m [1mconst[0m [1mchar[0m [1m*[0m[4mformat[24m[1m,[0m [1mva_list[0m [4map[24m[1m);[0m[m
+[m
+[7m Manual page printf(3) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ man -a printf
+[?1049h[22;0;0t[?1h=PRINTF(1)                        User Commands                       PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print ARGUMENT(s) according to FORMAT, or execute according to OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls the output as in C printf.  Interpreted sequences are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t--Man-- след: printf(3) [ просм (ввод) | пропуск (Ctrl-D) | выход (Ctrl-C) ]
+info printf           q ^C
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ man -a printf[K[K[K[K[K[K[K[K[K[K[K[K[Kinfo printf
+[?1h=[?1049h[22;0;0t[H[2J[24;1HДобро пожаловать в Info версии 6.6. H — справка, h — обучающее руководство.[24;1Hgzip -d < /usr/share/info/coreutils.info.gz...[K[24;1HДобро пожаловать в Info версии 6.6. H — справка, h — обучающее руководство.[23;1H[7m-----Info: (coreutils)printf invocation, 124 lines --Top------------------------[0m[1;1HNext: yes invocation,  Prev: echo invocation,  Up: Printing text[3;1H15.2 ‘printf’: Format and print data[4;1H====================================[6;1H‘printf’ does formatted printing of text.  Synopsis:[8;1H     printf FORMAT [ARGUMENT]...[10;1H   ‘printf’ prints the FORMAT string, interpreting ‘%’ directives and[11;1H‘\’ escapes to format numeric and string arguments in a way that is[12;1Hmostly similar to the C ‘printf’ function.  [4m*Note ‘printf’ format[24m[K[13;1H[4mdirectives[24m: (libc)Output Conversion Syntax, for details.  The[K[14;1Hdifferences are listed below.[16;1H   Due to shell aliases and built-in ‘printf’ functions, using an[17;1Hunadorned ‘printf’ interactively or in a script may get you different[18;1Hfunctionality than that described here.  Invoke it via ‘env’ (i.e., ‘env[19;1Hprintf ...’) to avoid interference from the shell.[21;1H   • The FORMAT argument is reused as necessary to convert all the given[22;1H     ARGUMENTs.  For example, the command ‘printf %s a b’ outputs ‘ab’.[1;1H[1;1H[24;1H[K[24;1H[K[?1l>[?1049l[23;0;0t[24;1H[K[?1l>[?1049l[23;0;0t]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ e[Kwhatis printf
+printf (1)           - format and print data
+printf (3)           - formatted output conversion
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-14 10:58:22+03:00 [COMMAND_EXIT_CODE="0"]

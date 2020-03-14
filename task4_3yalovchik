@@ -1,0 +1,248 @@
+Script started on 2020-03-14 10:48:38+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ exitcho -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C1;31;42m Bold and RegFg and GreenBg \e[0[1Pm"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[24P[0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kecho -e "Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kscript -ttimelog4_2yalovchik task4_2yalovchik[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kecho -e "Normal \e[5mBlink \e[25mNormal"
+Normal [5mBlink [25mNormal
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ echo -e "Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cxit[Kcho -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C1;31;42m Bold and RegFg and GreenBg \e[0[1Pm"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[24P[0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[14P\e[0mNormal Text"
+[0mNormal Text
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cxit[Kcho -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+    1  echo 'Hello World'
+    2  ls
+    3  cd Video
+    4  cd Видео
+    5  vi
+    6  ls
+    7  cd Видео
+    8  mkdir newfolder
+    9  ls
+   10  cd ..
+   11  history
+   12  nano
+   13  exit
+   14  script
+   15  nano
+   16  gcc task5.c -o task5
+   17  exit
+   18  script
+   19  nano
+   20  gcc task5.c -o task5
+   21  nano
+   22  gcc task5.c -o task5
+   23  ./task5
+   24  exit
+   25  script
+   26  nano task5.c
+   27  sudo apt install gnome-tweaks
+   28  echo -e "Foreground in \e[31mRed"
+   29  echo -e "Foreground in \e[32mGreen"
+   30  echo -e "Foreground in \e[33mYellow"
+   31  echo -e "Foreground in \e[34mBlue"
+   32  echo -e "Default \e[39mDefault"
+   33  echo -e "Background in \e[41mRed"
+   34  echo -e "Background in \e[42mGreen"
+   35  echo -e "Background in \e[43mYellow"
+   36  echo -e "Background in \e[44mBlue"
+   37  echo -e "Default \e[49mDefault"
+   38  echo -e "Normal \e[1mBold"
+   39  echo -e "Normal \e[4mUnderlined"
+   40  echo -e "Normal \e[5mBlink"
+   41  echo -e "\e[0mNormal Text"
+   42  date
+   43  cal 2 2020
+   44  history
+   45  cal 2 2020
+   46  man passwd
+   47  man 5 passwd
+   48  info passwd
+   49  sudo /usr/sbin/makewhatis
+   50  whatis passwd
+   51  pwd
+   52  mkdir temp
+   53  cd temp
+   54  pwd
+   55  cd ~
+   56  pwd
+   57  lsb_release -a
+   58  sudo apt install git
+   59  echo "# linux-labraboty-2020-Vasyabylba" >> README.md
+   60  git init
+   61  git add README.md
+   62  git commit -m "first commit"
+   63  git config --global user.name vasiliy
+   64  git config --global user.email vasyabylba@gmail.com
+   65  git commit -m "first commit"
+   66  git remote add origin https://github.com/fpmibsulinux/linux-labraboty-2020-Vasyabylba.git
+   67  git push -u origin master
+   68  echo -e "\e[33;44mForeground in yellow, Background in blue"
+   69  echo -e "\e[39;49mDefault"
+   70  echo -e "Normal \e[1mBold\e[0m \e[4mUnderlined\e[0m \e[5mBlink \e[0mNormal"
+   71  echo -e "\e[33m\e[44mBlueBg YellowFg \e[1mBold\e[0m\e[33m\e[44m \e[4mUnderlined\e[0m\e[33m\e[44m \e[5mBlink\e[0m\e[33m\e[44m Normal"
+   72  exit
+   73  script -ttimelog4_1yalovchik task4_1yalovchik
+   74  clear
+   75  date + "Today is %d, %m, %Y%nThe time is now %H:%m"
+   76  date +"Today is %d, %m, %Y%nThe time is now %H:%m"
+   77  cal 03 2020
+   78  cal 01 2020
+   79  cal 01 2000
+   80  exit
+   81  script -ttimelog4_2yalovchik task4_2yalovchik
+   82  clear
+   83  echo -e "Normal \e[5mBlink \e[25mNormal"
+   84  echo -e "\e[0mNormal Text"
+   85  history
+   86  echo -e "Normal \e[5mBlink \e[25mNormal"
+   87  echo -e "\e[0mNormal Text"
+   88  echo -e "\e1;31;42m Bold and RegFg and GreenBg \e[0m"
+   89  echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"
+   90  history
+   91  echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"
+   92  echo -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"
+   93  exit
+   94  echo -e "Normal \e[5mBlink \e[25mNormal"
+   95  echo -e "\e[0mNormal Text"
+   96  history
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ historyecho -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cxit[Kcho -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C1;31;42m Bold and RegFg and GreenBg \e[0[1Pm"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[24P[0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[14P\e[0mNormal Text"1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[24P[0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kscript -ttimelog4_2yalovchik task4_2yalovchik[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kscript -ttimelog4_2yalovchik task4_2yalovchik[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kecho -e "Normal \e[5mBlink \e[25mNormal"[14P\e[0mNormal Text"history[Kecho -e "Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "Normal \e[5mBlink \e[25mNormal"[14P\e[0mNormal Text"1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[24P[0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[K[K[K[K[K[K[K[K!94
+echo -e "Normal \e[5mBlink \e[25mNormal"
+Normal [5mBlink [25mNormal
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ !95
+echo -e "\e[0mNormal Text"
+[0mNormal Text
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cxit[Kcho -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C1;31;42m Bold and RegFg and GreenBg \e[0[1Pm"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[1;31;42m Bold and RegFg and GreenBg \e[0m"
+[1;31;42m Bold and RegFg and GreenBg [0m
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history
+    1  echo 'Hello World'
+    2  ls
+    3  cd Video
+    4  cd Видео
+    5  vi
+    6  ls
+    7  cd Видео
+    8  mkdir newfolder
+    9  ls
+   10  cd ..
+   11  history
+   12  nano
+   13  exit
+   14  script
+   15  nano
+   16  gcc task5.c -o task5
+   17  exit
+   18  script
+   19  nano
+   20  gcc task5.c -o task5
+   21  nano
+   22  gcc task5.c -o task5
+   23  ./task5
+   24  exit
+   25  script
+   26  nano task5.c
+   27  sudo apt install gnome-tweaks
+   28  echo -e "Foreground in \e[31mRed"
+   29  echo -e "Foreground in \e[32mGreen"
+   30  echo -e "Foreground in \e[33mYellow"
+   31  echo -e "Foreground in \e[34mBlue"
+   32  echo -e "Default \e[39mDefault"
+   33  echo -e "Background in \e[41mRed"
+   34  echo -e "Background in \e[42mGreen"
+   35  echo -e "Background in \e[43mYellow"
+   36  echo -e "Background in \e[44mBlue"
+   37  echo -e "Default \e[49mDefault"
+   38  echo -e "Normal \e[1mBold"
+   39  echo -e "Normal \e[4mUnderlined"
+   40  echo -e "Normal \e[5mBlink"
+   41  echo -e "\e[0mNormal Text"
+   42  date
+   43  cal 2 2020
+   44  history
+   45  cal 2 2020
+   46  man passwd
+   47  man 5 passwd
+   48  info passwd
+   49  sudo /usr/sbin/makewhatis
+   50  whatis passwd
+   51  pwd
+   52  mkdir temp
+   53  cd temp
+   54  pwd
+   55  cd ~
+   56  pwd
+   57  lsb_release -a
+   58  sudo apt install git
+   59  echo "# linux-labraboty-2020-Vasyabylba" >> README.md
+   60  git init
+   61  git add README.md
+   62  git commit -m "first commit"
+   63  git config --global user.name vasiliy
+   64  git config --global user.email vasyabylba@gmail.com
+   65  git commit -m "first commit"
+   66  git remote add origin https://github.com/fpmibsulinux/linux-labraboty-2020-Vasyabylba.git
+   67  git push -u origin master
+   68  echo -e "\e[33;44mForeground in yellow, Background in blue"
+   69  echo -e "\e[39;49mDefault"
+   70  echo -e "Normal \e[1mBold\e[0m \e[4mUnderlined\e[0m \e[5mBlink \e[0mNormal"
+   71  echo -e "\e[33m\e[44mBlueBg YellowFg \e[1mBold\e[0m\e[33m\e[44m \e[4mUnderlined\e[0m\e[33m\e[44m \e[5mBlink\e[0m\e[33m\e[44m Normal"
+   72  exit
+   73  script -ttimelog4_1yalovchik task4_1yalovchik
+   74  clear
+   75  date + "Today is %d, %m, %Y%nThe time is now %H:%m"
+   76  date +"Today is %d, %m, %Y%nThe time is now %H:%m"
+   77  cal 03 2020
+   78  cal 01 2020
+   79  cal 01 2000
+   80  exit
+   81  script -ttimelog4_2yalovchik task4_2yalovchik
+   82  clear
+   83  echo -e "Normal \e[5mBlink \e[25mNormal"
+   84  echo -e "\e[0mNormal Text"
+   85  history
+   86  echo -e "Normal \e[5mBlink \e[25mNormal"
+   87  echo -e "\e[0mNormal Text"
+   88  echo -e "\e1;31;42m Bold and RegFg and GreenBg \e[0m"
+   89  echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"
+   90  history
+   91  echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"
+   92  echo -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"
+   93  exit
+   94  echo -e "Normal \e[5mBlink \e[25mNormal"
+   95  echo -e "\e[0mNormal Text"
+   96  history
+   97  echo -e "Normal \e[5mBlink \e[25mNormal"
+   98  echo -e "\e[0mNormal Text"
+   99  echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"
+  100  history
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ !99
+echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"
+[1;31;42m Bold and RegFg and GreenBg [0m
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[24P0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cxit[Kcho -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2
+[C[C[C[C[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ history[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;42m Bold and RegFg and GreenBg \e[0m"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C1;31;42m Bold and RegFg and GreenBg \e[0[1Pm"[A]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[24P[0mNormal Text"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNormal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kecho -e "\e[0mNormal Text"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K^42^44^
+echo -e "\e[1;31;44m Bold and RegFg and GreenBg \e[0m"
+[1;31;44m Bold and RegFg and GreenBg [0m
+]0;vasiliy@vasiliy-VirtualBox: ~[01;32mvasiliy@vasiliy-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-14 10:51:45+03:00 [COMMAND_EXIT_CODE="0"]
